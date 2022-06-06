@@ -1,0 +1,23 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+main{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+    margin-top: 150px;
+    width: 800px;
+    height: 300px;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 5px;
+    overflow: hidden
+}
+
+.violet{
+    position: absolute;
+    background-color: hsl(277, 96%, 29%);
+    width: 350px;
+    height: 300px;
+    opacity: 0.5;
+}

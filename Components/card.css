@@ -1,0 +1,41 @@
+img{
+    width: 350px;
+    height: 300px;
+}
+
+
+.main-section{
+    padding: 45px 55px 10px 60px;
+}
+h1{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+h1 span{
+    color: hsl(277, 64%, 61%);
+}
+p{
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.5;
+}
+
+.section{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 15px;
+    padding-right: 30px;
+    color: white;
+}
+.follow{
+    font-family: 'Inter', sans-serif;
+    margin: 20px
+}
+.follow p{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 700;
+}
